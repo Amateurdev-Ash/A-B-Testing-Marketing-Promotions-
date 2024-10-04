@@ -47,7 +47,7 @@ pip install pandas matplotlib scipy
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/ab-testing-promotions.git`
+1. Clone the repository: `git clone https://github.com/Amateurdev-Ash/ab-testing-promotions.git`
 2. Install the dependencies (see above).
 3. Open and run the Jupyter Notebook: `jupyter notebook ab-testing-promotions.ipynb`
 
